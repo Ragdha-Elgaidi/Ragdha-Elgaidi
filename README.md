@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+<img align="right" height="200px" alt="GIF" src="https://octodex.github.com/images/NUX_Octodex.gif" />
 
 ### I am a machine learning engineer:
 - 🌱 I’m currently learning  ML,Data structures, and Algorithm .
