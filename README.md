@@ -13,13 +13,15 @@
 
 <p align="center">
 <br>
-
-<a href="https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
- <a href="https://ragdhaelgaidi@gmail.com/"><img src="https://img.shields.io/badge/gmail-%235453B6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>&nbsp;
-
+ <a href="https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/"><img src="https://img.shields.io/badge/-Ragdha%20Elgaidi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+< a href="mailto:ragdhaelgaidi@gmail.co"><img src="https://img.shields.io/badge/-Ragdha%20Elgaidi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/ragdhaelgaidi/"><img src="https://img.shields.io/badge/-ragdhaelgaidi-FFF?style=flat&logo=leetcode&logoColor=yellow"/></a>
+<a href="https://codeforces.com/profile/ragdhaelgaidi"><img src="https://img.shields.io/badge/-ragdhaelgaidi-white?style=flat&logo=Codeforces&logoColor=inhert"/></a>
 </p>
 
 <br>
+
+</p>
 
 <img align="right" height="200px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
 
@@ -48,7 +50,7 @@
 ![codeblocks](https://img.shields.io/badge/-Codeblocks-05122A?style=flat&logo=codeblocks)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jupter Notebook](https://img.shields.io/badge/-Jupter%20Notebook-05122A?style=flat&logo=jubter notebook)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter-Notebook)&nbsp;
 
 ###### <b>Operating System Used :</b>
 
