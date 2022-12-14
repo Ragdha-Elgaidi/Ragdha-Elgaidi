@@ -50,7 +50,8 @@
 
 
 
-### Github Stats
+### Github Stats:
+
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ragdha-Elgaidi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
