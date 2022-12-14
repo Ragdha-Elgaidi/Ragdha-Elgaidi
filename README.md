@@ -51,16 +51,12 @@
 
 
 ### Github Stats
-
-/br>
-
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ragdha-Elgaidi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </br></br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ragdha-Elgaidi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
