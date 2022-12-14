@@ -20,7 +20,7 @@
 
 <br>
 
-<img align="right" height="200px" alt="GIF" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+<img align="right" height="200px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
 
 ### I am a machine learning engineer:
 - 🌱 I’m currently learning  ML,Data structures, and Algorithm .
