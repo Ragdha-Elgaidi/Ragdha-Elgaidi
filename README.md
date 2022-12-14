@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <p>
   <h1 align="center"><b>Hello there, I'm Ragdha El-gaidi👋</b></h1>
 </p>
@@ -52,7 +52,7 @@
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ragdha's Github Stats" width="60%">
+<img align="left" src="https://github.com/Ragdha-Elgaidi&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ragdha's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragdha-Elgaidi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
 
