@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
- <a href="https://ragdhaelgaidi@gmail.com/"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmial&logoColor=red" alt="Gmail" /></a>&nbsp;
+ <a href="https://ragdhaelgaidi@gmail.com/"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>&nbsp;
 
 </p>
 
