@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/)
+- 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -54,7 +54,7 @@
 
 <img align="left" src="https://github.com/Ragdha-Elgaidi&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ragdha's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragdha-Elgaidi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragdha-Elgaidi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ragdha's Top Languages">
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
