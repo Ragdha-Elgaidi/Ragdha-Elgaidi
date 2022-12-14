@@ -16,7 +16,6 @@
 
 <a href="https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
 <br>
