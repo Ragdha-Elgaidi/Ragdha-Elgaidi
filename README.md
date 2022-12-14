@@ -14,7 +14,7 @@
 <p align="center">
 <br>
  <a href="https://www.linkedin.com/in/ragdha-elgaidi-9040a01b9/"><img src="https://img.shields.io/badge/-Ragdha%20Elgaidi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-< a href="mailto:ragdhaelgaidi@gmail.co"><img src="https://img.shields.io/badge/-Ragdha%20Elgaidi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ragdhaelgaidi@gmail.com"><img src="https://img.shields.io/badge/-Ragdha%20Elgaidi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/ragdhaelgaidi/"><img src="https://img.shields.io/badge/-ragdhaelgaidi-FFF?style=flat&logo=leetcode&logoColor=yellow"/></a>
 <a href="https://codeforces.com/profile/ragdhaelgaidi"><img src="https://img.shields.io/badge/-ragdhaelgaidi-white?style=flat&logo=Codeforces&logoColor=inhert"/></a>
 </p>
