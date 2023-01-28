@@ -42,6 +42,8 @@
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+
 
 ###### <b>Software Development Tools :</b>
 
@@ -75,4 +77,4 @@
 -----
 Credits: [Ragdha-Elgaidi](https://github.com/Ragdha-Elgaidi)
 
-Last Edited on: 14/12/2022
+Last Edited on: 28/1/2023
