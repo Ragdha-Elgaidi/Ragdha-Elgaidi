@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Ragdha-Elgaidi" />
+  <a href="https://github.com/Ragdha-Elgaidi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ragdha-Elgaidi&style=for-the-badge">
+  </a>
+  
 </p>
 
 <p align="center">
